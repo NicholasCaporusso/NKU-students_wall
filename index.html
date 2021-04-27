@@ -67,8 +67,8 @@
 			</div>
 		</div>
 		<div class="modal fade" id="studentModal" tabindex="-1" aria-labelledby="studentModal" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content modal-lg">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
 					<div class="modal-body">
 					</div>
 				</div>
@@ -95,7 +95,7 @@
 		var allImages='';
 		for(var i=0;i<students.length;i++) allImages+='<div><div class="image" style="background-image:url(students/'+students[i]+'.png);" data-url="'+students[i]+'.html"></div></div>';
 		$('#photos').append(allImages);
-		$(document).on('click','#photos > div',function(){
+		$(document).on('click','.image',function(){
 			$('#studentModal .modal-body').html('<p class="lead">The student does not have a page</p>');
 			$('#studentModal .modal-body').load('students/'+$(this).data('url'));
 			$('#studentModal').modal('show');
