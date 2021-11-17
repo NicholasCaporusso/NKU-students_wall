@@ -1,6 +1,6 @@
 var students=[
 '2021-Spring-INF-286-002-Andy-Maratea',
-'2021-Fall-INF-286-002-Logan-Perry',
+'2021-Fall-INF286-002_Logan_Perry',
 '2021-Spring-INF286-001-Evan_Higgins',
 '2021-Spring-INF286-001_Lillyann_Tursany',
 '2021-Spring-INF286-001_rojan_kc',
@@ -22,15 +22,15 @@ var students=[
 '2021-Summer-INF286-001_LaShondra_Schwab',
 '2021-Fall-INF286-002-Connor_Uhlhorn',
 '2021-Fall-INF286-002_Dakota_McMullin',
-'2021-Fall-Inf286-002_Emma_Hopkins',
+'2021-Fall-INF286-002_Emma_Hopkins',
 '2021-Fall-INF286-002_Andrew_Harasymchuk',
 '2021-Fall-INF286-002-Leslie-Hernandez',
 '2021-Fall-INF-286-002-Robert-Adams',
-'2021-Fall-INF286-002_Katrina_Harp',
-'2021-Fall-INF286-002_Alex_Ruff',
-'2021-Summer-INF286-001_Ben Trelc',
+'2021-fall-INF286-002_Katrina_Harp',
+'2021-Fall-INF-286-002-Alex-Ruff',
+'2021-Fall-INF-286-002-Ben_Trelc',
 '2021-Fall-INF286-002_Max_Moeller',
 '2021-Fall-INF-286-002-Matthew_Schnapp',
-'2021-Fall-INF286-002_Miles_Packwood',
-'2021-Fall-INF-286-002-Abhishek_Shrestha'
+'2021-Fall-INF286_Miles_Packwood',
+'2021-Fall-INF-286-002-Abhishek-Shrestha'
 ];
