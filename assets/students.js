@@ -20,7 +20,11 @@ var students=[
 '2021-spring-INF286-002_Geo_Esquivel',
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
+<<<<<<< HEAD
 '2021-Fall-INF286-002_Andrew_Harasymchuk'
+=======
+'2021-Fall-INF286-002_Katrina_Harp',
+>>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
 =======
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab'
