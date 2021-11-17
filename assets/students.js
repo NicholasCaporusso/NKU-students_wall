@@ -18,5 +18,6 @@ var students=[
 '2021-Spring-INF286-002_Tyler_Ryan',
 '2021-spring-INF286-001_Justin_Walter',
 '2021-spring-INF286-002_Geo_Esquivel',
-'2021-Summer-INF286-001_LaShondra_Schwab'
+'2021-Summer-INF286-001_LaShondra_Schwab',
+'2021-Fall-INF286-002_Jyhdel_Pamonag'
 ];
