@@ -18,6 +18,11 @@ var students=[
 '2021-Spring-INF286-002_Tyler_Ryan',
 '2021-spring-INF286-001_Justin_Walter',
 '2021-spring-INF286-002_Geo_Esquivel',
+<<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab'
 '2021-Fall-INF286-002_Max_Moeller'
+=======
+'2021-Summer-INF286-001_LaShondra_Schwab',
+'2021-Fall-INF-286-002-Matthew_Schnapp'
+>>>>>>> 7639e3c246da7325177acffd136561fa4c6dc2b1
 ];
