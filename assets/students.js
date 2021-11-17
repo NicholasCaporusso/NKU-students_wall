@@ -1,5 +1,6 @@
 var students=[
 '2021-Spring-INF-286-002-Andy-Maratea',
+'2021-Fall-INF-286-002-Logan-Perry',
 '2021-Spring-INF286-001-Evan_Higgins',
 '2021-Spring-INF286-001_Lillyann_Tursany',
 '2021-Spring-INF286-001_rojan_kc',
