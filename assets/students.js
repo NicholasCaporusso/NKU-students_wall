@@ -1,5 +1,6 @@
 var students=[
 '2021-Spring-INF-286-002-Andy-Maratea',
+'2021-Fall-INF-286-002-Logan-Perry',
 '2021-Spring-INF286-001-Evan_Higgins',
 '2021-Spring-INF286-001_Lillyann_Tursany',
 '2021-Spring-INF286-001_rojan_kc',
@@ -20,6 +21,12 @@ var students=[
 '2021-spring-INF286-002_Geo_Esquivel',
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
+<<<<<<< HEAD
+'2021-Fall-INF286-002_Dakota_McMullin',
+=======
+<<<<<<< HEAD
+'2021-Summer-INF286-001_LaShondra_Schwab',
+=======
 <<<<<<< HEAD
 '2021-Fall-Inf286-002_Emma_Hopkins'
 =======
@@ -44,6 +51,7 @@ var students=[
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
+>>>>>>> 73f82accf25a795c03bb91db8a73c40066714478
 '2021-Fall-INF286-002_Katrina_Harp',
 >>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
 =======
@@ -61,5 +69,8 @@ var students=[
 <<<<<<< HEAD
 =======
 >>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
+<<<<<<< HEAD
+=======
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
+>>>>>>> 73f82accf25a795c03bb91db8a73c40066714478
 ];
