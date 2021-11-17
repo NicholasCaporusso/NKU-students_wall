@@ -22,6 +22,12 @@ var students=[
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
 <<<<<<< HEAD
+'2021-Fall-INF286-002_Dakota_McMullin',
+=======
+<<<<<<< HEAD
+'2021-Summer-INF286-001_LaShondra_Schwab',
+=======
+<<<<<<< HEAD
 '2021-Fall-Inf286-002_Emma_Hopkins'
 =======
 <<<<<<< HEAD
@@ -45,6 +51,7 @@ var students=[
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
+>>>>>>> 73f82accf25a795c03bb91db8a73c40066714478
 '2021-Fall-INF286-002_Katrina_Harp',
 >>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
 =======
@@ -57,5 +64,8 @@ var students=[
 >>>>>>> 7639e3c246da7325177acffd136561fa4c6dc2b1
 >>>>>>> 56acd336458ad340cf9fc0e4857dcd6d8f65bdc9
 >>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
+<<<<<<< HEAD
+=======
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
+>>>>>>> 73f82accf25a795c03bb91db8a73c40066714478
 ];
