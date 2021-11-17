@@ -19,6 +19,14 @@ var students=[
 '2021-spring-INF286-001_Justin_Walter',
 '2021-spring-INF286-002_Geo_Esquivel',
 <<<<<<< HEAD
+'2021-Summer-INF286-001_LaShondra_Schwab',
+'2021-Fall-INF-286-002-Robert-Adams'
+=======
+<<<<<<< HEAD
+'2021-Summer-INF286-001_LaShondra_Schwab',
+'2021-Fall-INF286-002_Katrina_Harp',
+=======
+<<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab'
 <<<<<<< HEAD
 '2021-Summer-INF286-001_Ben Trelc',
@@ -29,4 +37,8 @@ var students=[
 '2021-Fall-INF-286-002-Matthew_Schnapp'
 >>>>>>> 7639e3c246da7325177acffd136561fa4c6dc2b1
 >>>>>>> 56acd336458ad340cf9fc0e4857dcd6d8f65bdc9
+<<<<<<< HEAD
+=======
+>>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
+>>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
 ];
