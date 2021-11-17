@@ -21,5 +21,10 @@ var students=[
 '2021-Fall-INF286-002_Jyhdel_Pamonag',
 '2021-Fall-INF286-002_Max_Moeller',
 '2021-Summer-INF286-001_LaShondra_Schwab',
-'2021-Fall-INF-286-002-Matthew_Schnapp'
+'2021-Fall-INF-286-002-Matthew_Schnapp',
+'2021-Fall-Inf286-002_Emma_Hopkins',
+'2021-Fall-INF286-002_Andrew_Harasymchuk',
+'2021-Fall-INF286-002-Leslie-Hernandez',
+'2021-Fall-INF-286-002-Robert-Adams',
+'2021-Fall-INF286-002_Katrina_Harp'
 ];
