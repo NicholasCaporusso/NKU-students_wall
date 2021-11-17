@@ -32,7 +32,11 @@ var students=[
 <<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab'
 <<<<<<< HEAD
+<<<<<<< HEAD
 '2021-Fall-INF286-002_Alex_Ruff',
+=======
+'2021-Summer-INF286-001_Ben Trelc',
+>>>>>>> bde9daa80392880e2f8338bb0aee8e87f7cecad3
 =======
 '2021-Fall-INF286-002_Max_Moeller'
 =======
@@ -40,15 +44,24 @@ var students=[
 '2021-Fall-INF-286-002-Matthew_Schnapp'
 >>>>>>> 7639e3c246da7325177acffd136561fa4c6dc2b1
 >>>>>>> 56acd336458ad340cf9fc0e4857dcd6d8f65bdc9
+<<<<<<< HEAD
 >>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
 <<<<<<< HEAD
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
 =======
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 862ab626ddce1ea9c081f983bfc4f6a82441c6b4
+>>>>>>> bde9daa80392880e2f8338bb0aee8e87f7cecad3
 <<<<<<< HEAD
 =======
 >>>>>>> 138f8afa8091047446dd5bbd7a9dd5df04ec1e0a
 >>>>>>> 73f82accf25a795c03bb91db8a73c40066714478
+<<<<<<< HEAD
 >>>>>>> a4a07e24940f12f23b57aad8a22c13a4253728bc
+=======
+>>>>>>> bde9daa80392880e2f8338bb0aee8e87f7cecad3
 =======
 '2021-Fall-INF286-002_Miles_Packwood',
 '2021-Fall-INF286-002_Max_Moeller',
