@@ -19,21 +19,10 @@ var students=[
 '2021-Spring-INF286-002_Tyler_Ryan',
 '2021-spring-INF286-001_Justin_Walter',
 '2021-spring-INF286-002_Geo_Esquivel',
-<<<<<<< HEAD
-<<<<<<< HEAD
 '2021-Summer-INF286-001_LaShondra_Schwab',
 '2021-Fall-INF286-002_Marc_Muhlberger',
-=======
-<<<<<<< HEAD
-'2021-Summer-INF286-001_LaShondra_Schwab'
 '2021-Fall-INF286-002_Max_Moeller'
-=======
-'2021-Summer-INF286-001_LaShondra_Schwab',
 '2021-Fall-INF-286-002-Matthew_Schnapp'
->>>>>>> 7639e3c246da7325177acffd136561fa4c6dc2b1
->>>>>>> 56acd336458ad340cf9fc0e4857dcd6d8f65bdc9
-=======
-'2021-Summer-INF286-001_LaShondra_Schwab',
 '2021-Fall-INF286-002-Connor_Uhlhorn',
 '2021-Fall-INF286-002_Dakota_McMullin',
 '2021-Fall-INF286-002_Emma_Hopkins',
@@ -47,5 +36,4 @@ var students=[
 '2021-Fall-INF-286-002-Matthew_Schnapp',
 '2021-Fall-INF286_Miles_Packwood',
 '2021-Fall-INF-286-002-Abhishek-Shrestha'
->>>>>>> 838080d8b2ccdeec55fcdac5cbfdcb7471fd1138
 ];
