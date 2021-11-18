@@ -21,8 +21,8 @@ var students=[
 '2021-spring-INF286-002_Geo_Esquivel',
 '2021-Summer-INF286-001_LaShondra_Schwab',
 '2021-Fall-INF286-002_Marc_Muhlberger',
-'2021-Fall-INF286-002_Max_Moeller'
-'2021-Fall-INF-286-002-Matthew_Schnapp'
+'2021-Fall-INF286-002_Max_Moeller',
+'2021-Fall-INF-286-002-Matthew_Schnapp',
 '2021-Fall-INF286-002-Connor_Uhlhorn',
 '2021-Fall-INF286-002_Dakota_McMullin',
 '2021-Fall-INF286-002_Emma_Hopkins',
