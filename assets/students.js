@@ -1,5 +1,6 @@
 var students=[
 '2021-Spring-INF-286-002-Andy-Maratea',
+'2021-Fall-INF-286-002-Logan-Perry',
 '2021-Spring-INF286-001-Evan_Higgins',
 '2021-Spring-INF286-001_Lillyann_Tursany',
 '2021-Spring-INF286-001_rojan_kc',
@@ -26,5 +27,7 @@ var students=[
 '2021-Fall-INF286-002_Andrew_Harasymchuk',
 '2021-Fall-INF286-002-Leslie-Hernandez',
 '2021-Fall-INF-286-002-Robert-Adams',
-'2021-Fall-INF286-002_Katrina_Harp'
+'2021-Fall-INF286-002_Katrina_Harp',
+'2021-Fall-INF286-002_Dakota_McMullin',
+'2021-Fall-INF286-002_Miles_Packwood'
 ];
