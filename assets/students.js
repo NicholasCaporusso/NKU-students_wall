@@ -1,6 +1,6 @@
 var students=[
 '2021-Spring-INF-286-002-Andy-Maratea',
-'2021-Fall-INF-286-002-Logan-Perry',
+'2021-Fall-INF286-002_Logan_Perry',
 '2021-Spring-INF286-001-Evan_Higgins',
 '2021-Spring-INF286-001_Lillyann_Tursany',
 '2021-Spring-INF286-001_rojan_kc',
@@ -19,6 +19,7 @@ var students=[
 '2021-Spring-INF286-002_Tyler_Ryan',
 '2021-spring-INF286-001_Justin_Walter',
 '2021-spring-INF286-002_Geo_Esquivel',
+<<<<<<< HEAD
 '2021-Fall-INF286-002_Jyhdel_Pamonag',
 '2021-Fall-INF286-002_Max_Moeller',
 '2021-Summer-INF286-001_LaShondra_Schwab',
@@ -30,4 +31,25 @@ var students=[
 '2021-Fall-INF286-002_Katrina_Harp',
 '2021-Fall-INF286-002_Dakota_McMullin',
 '2021-Fall-INF286-002_Miles_Packwood'
+=======
+'2021-Summer-INF286-001_LaShondra_Schwab',
+'2021-Fall-INF286-002_Marc_Muhlberger',
+'2021-Fall-INF286-002_Max_Moeller',
+'2021-Fall-INF-286-002-Matthew_Schnapp',
+'2021-Fall-INF286-002-Connor_Uhlhorn',
+'2021-Fall-INF286-002_Dakota_McMullin',
+'2021-Fall-INF286-002_Emma_Hopkins',
+'2021-Fall-INF286-002_Andrew_Harasymchuk',
+'2021-Fall-INF286-002-Leslie-Hernandez',
+'2021-Fall-INF-286-002-Robert-Adams',
+'2021-fall-INF286-002_Katrina_Harp',
+'2021-Fall-INF-286-002-Alex-Ruff',
+'2021-Fall-INF-286-002-Ben_Trelc',
+'2021-Fall-INF286-002_Max_Moeller',
+'2021-Fall-INF-286-002-Matthew_Schnapp',
+'2021-Fall-INF286_Miles_Packwood',
+'2021-Fall-INF-286-002-Abhishek-Shrestha',
+'2021-Fall-INF-286-002-Naryn-Samuel',
+'2021-Fall-INF-286-002-Daniel-Kibler'
+>>>>>>> 0ac63d07c81f73d292aeb91f726f1c5870c54c88
 ];
