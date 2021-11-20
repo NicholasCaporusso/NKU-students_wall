@@ -36,5 +36,6 @@ var students=[
 '2021-Fall-INF-286-002-Matthew_Schnapp',
 '2021-Fall-INF286_Miles_Packwood',
 '2021-Fall-INF-286-002-Abhishek-Shrestha',
+'2021-Fall-INF-286-002-Naryn-Samuel',
 '2021-Fall-INF-286-002-Daniel-Kibler'
 ];
