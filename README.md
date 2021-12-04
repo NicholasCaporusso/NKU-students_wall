@@ -1,7 +1,7 @@
-# students-wall
-This is a collaborative project that features all the students who have taken my classes.
+# Students' wall
+This is a collaborative project that features all the students who have taken my INF286 - Introduction to Web Development course.
 
-Check the page out at https://nicholascaporusso.github.io/students-wall/
+Check the webpage out at https://nicholascaporusso.github.io/students-wall/
 
 ## Instructions for students:
 1. Email me your GitHub username, so I can enable you to modify the repository
